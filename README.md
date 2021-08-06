@@ -7,4 +7,7 @@ This is an incomplete code and I will update it as often as I can. Im very new t
   notice that I've added a mistake, or omitted important syntax.
 Any advice/tips are completely welcomed while I attempt to write/test my very first project.
 
+The "Deck List" was limited to only a few cards so I could test specific parameters....... Just in case anyone 
+  was confused about the length of the Deck List.
+
 *********IGNORE LINE ("DEF PLAYER_CHOICE") AND ALL FOLLOWING LINES*********
