@@ -6,3 +6,5 @@ This is a beginner attempt at trying to program an interactive Blackjack game th
 This is an incomplete code and I will update it as often as I can. Im very new to programming, so I may not
   notice that I've added a mistake, or omitted important syntax.
 Any advice/tips are completely welcomed while I attempt to write/test my very first project.
+
+*********IGNORE LINE ("DEF PLAYER_CHOICE") AND ALL FOLLOWING LINES*********
